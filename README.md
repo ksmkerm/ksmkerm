@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ksmkerm
+- 👀 I’m interested in Web3/blockchain technologies. Specifically Polkadot and Kusama.
+- 🌱 I’m currently learning Solidity and Rust.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: https://twitter.com/kusama_kerm
